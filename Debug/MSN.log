@@ -1,0 +1,6 @@
+﻿  msn.cpp
+e:\make some noise\zhang,w_final\msn.cpp(116): warning C4551: function call missing argument list
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  MSN.vcxproj -> E:\Make Some Noise\Zhang,W_Final\Debug\Make Some Noise VS.exe
+  MSN.vcxproj -> E:\Make Some Noise\Zhang,W_Final\Debug\Make Some Noise VS.pdb (Full PDB)
